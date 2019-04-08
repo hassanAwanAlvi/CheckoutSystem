@@ -1,3 +1,23 @@
+
+# Ruby exercise
+Python based checkout system for promotion
+
+#What it offers
+Basically its a technical assessment
+
+
+#How to use it
+
+    make bootstrap
+
+testing
+
+    make test
+
+
+
+
+
 Take home Ruby exercise.
 Note: it’s recommended that you complete the exercise in Ruby. However, if you do not know Ruby yet and a much stronger in another language, you can choose that language.
 
